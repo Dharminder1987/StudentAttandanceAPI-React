@@ -1,1 +1,1 @@
-# mern-basic
+# StudentAttandance frontend with .NET WEB API
